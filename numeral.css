@@ -1,0 +1,38 @@
+body{
+    background-color: royalblue;
+}
+#send{
+    border-radius: 30px;
+    margin-left: -95px;
+}
+.top-space{
+    height: 150px;
+}
+form{
+    display: flex;
+    flex-direction: row;
+}
+#row2{
+    margin-top: 50px;
+}
+input[name="number"]{
+    border-radius: 25px;
+}
+div#wrapper{
+    padding: 20px 20px 5px 20px;
+    box-shadow: 5px 5px 10px;
+    border-radius: 20px;
+    background-color: white;
+}
+#output{
+    background-color: rgb(193, 194, 221);
+    font-size: 2rem;
+    border-radius: 1em;
+    text-align: center;
+    margin-top: 5px;
+    overflow: auto;
+}
+#close>i{
+    font-size: 2rem;
+    margin-right: 1.5rem;
+}
